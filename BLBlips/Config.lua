@@ -21,9 +21,6 @@
 
 Config = {}
 
--- ESX Version
-Config.ESXLegacy = false -- [ true | false ] true = using ESX Legacy, false = ESX 1.2 or v1 final.
-
 Config.Blips = {
 	Mining = { -- Name doesn't matter. This is just so you can keep track of what set of blips you are working on.
 		Pos = { -- Use Vector3 for these coords. Set as many as you want.
